@@ -76,8 +76,3 @@
         <li>Use snapshot antes do teste para restaurar rapidamente.</li>
         <li>Não mantenha a VM infectada ligada após o teste.</li>
     </ul>
-
-   <div class="footer">
-        ✍️ Autor: Seu Nome<br>
-        📅 Data: <!-- Você pode substituir manualmente --> 02/08/2025
-    </div>
